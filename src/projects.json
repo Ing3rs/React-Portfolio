@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Team profile generator",
+      "image":
+        "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png",
+      "description": "Generate a team profile using command-line prompts",
+      "link": "https://github.com/Ing3rs/Team-Profile-Generator"
+    },
+    {
+        "id": 2,
+        "name": "README generator",
+        "image":
+          "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png",
+        "description": "Automatically generate a professional README using command-line prompts",
+        "link": "https://github.com/Ing3rs/README-Generator"
+    },
+    {
+        "id": 3,
+        "name": "Screen Test",
+        "image":
+          "https://github.com/bowseruk/screen-test/raw/main/assets/images/screenshot.png",
+        "description": "Test your movie knowledge with this quiz!",
+        "link": "https://github.com/Ing3rs/screen-test"
+    },
+    {
+        "id": 4,
+        "name": "Weather dashboard",
+        "image":
+          "https://github.com/Ing3rs/Challenge-8-weather-dashboard/raw/main/assets/images/final-screenshot-2.png",
+        "description": "Found out the 5 day weather forecast where you are!",
+        "link": "https://github.com/Ing3rs/challenge-8-weather-dashboard"
+    },
+    {
+        "id": 5,
+        "name": "Work day schedular",
+        "image":
+          "https://github.com/Ing3rs/Challenge-7-Planner-App/raw/main/assets/images/daily-planner-screenshot.png",
+        "description": "A simple calendar app for scheduling your work day",
+        "link": "https://github.com/Ing3rs/Challenge-7-Planner-App"
+    },
+    {
+        "id": 6,
+        "name": "Password generator",
+        "image":
+          "https://github.com/Ing3rs/challenge-5-Password-Generator/raw/main/assets/images/password-generator-screenshot.jpg",
+        "description": "Generate a random password based on input from console alerts",
+        "link": "https://github.com/Ing3rs/Challenge-5-Password-Generator"
+    }
+  ]
+  
