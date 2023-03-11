@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Team profile generator",
       "image":
-        "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png",
+        "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png?raw=true",
       "description": "Generate a team profile using command-line prompts",
       "link": "https://github.com/Ing3rs/Team-Profile-Generator"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "README generator",
         "image":
-          "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png",
+          "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png?raw=true",
         "description": "Automatically generate a professional README using command-line prompts",
         "link": "https://github.com/Ing3rs/README-Generator"
     },
