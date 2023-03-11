@@ -2,8 +2,6 @@ import React from 'react';
 import ProjectCard from "../components/Card";
 import Container from "../components/Container";
 import Row from "../components/Row";
-import Col from "../components/Col";
-import Title from "../components/Title";
 import projectData from "../projects.json";
 
 // must render six instances of the project component dynamically

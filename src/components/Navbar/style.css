@@ -1,0 +1,13 @@
+.nav {
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.nav.nav-pills .nav-link {
+    color: white;
+}
+
+.nav.nav-pills .nav-link.active {
+    background-color: #74838c;
+}

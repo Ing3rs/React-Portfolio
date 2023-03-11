@@ -1,14 +1,15 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import './style.css';
 
 // must be rendered across every page component of the site
-
-
 // must contain a nav bar
+
+// need to make it into a burger menu for mobile
 
 function NavTabs() {
     return (
-        <ul className="nav nav-tabs">
+        <ul className="nav nav-pills justify-content-end">
             <li className="nav-item">
                 <NavLink
                     to="/"

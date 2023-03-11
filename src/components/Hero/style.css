@@ -1,0 +1,35 @@
+.hero {
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  .hero * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .hero h1 {
+    color: white;
+  }
+
+  .hero h2 {
+    color: #74838c;
+    padding-bottom: 25px;
+  }
+  
+  .hero h1 {
+    font-size: 60px;
+    padding-top: 140px;
+    margin-top: 0;
+  }
+  
+  .btn.contact-button {
+    margin-right: 15px;
+    background-color: #f69197;
+  }
+
+  .btn.projects-button {
+    background-color: #ffc4b8;
+  }
