@@ -2,3 +2,11 @@
     background-color: #282d3c;
     color: white;
 }
+
+p {
+    color:white;
+}
+
+.form-title {
+    padding-top: 15px;
+}

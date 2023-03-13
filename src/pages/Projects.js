@@ -22,6 +22,10 @@ function Projects() {
 
     return (
         <Container>
+            <div className="text-center pb-3">
+                <h1>Apps I've built</h1>
+                <p>Browse through my latest projects below</p>
+            </div>
             <Row>
                 {projects.map((project) => (
                         <ProjectCard

@@ -4,8 +4,8 @@ import Col from "../Col";
 
 function ProjectCard(props) {
   return (
-    <Col size="lg-4 md-6 sm-6" gutter="4">
-    <div className="card">
+    <Col size="lg-4 md-6 sm-12" gutter="4">
+    <div className="card card border-0">
       <div className="img-container">
         <span>
           <a href={props.link}>

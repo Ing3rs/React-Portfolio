@@ -25,6 +25,8 @@
     margin-top: 0;
   }
   
+  /* styling buttons */
+
   .btn.contact-button {
     margin-right: 15px;
     background-color: #f69197;
@@ -33,3 +35,16 @@
   .btn.projects-button {
     background-color: #ffc4b8;
   }
+
+  /* add hover affects onto butons */
+
+  .btn.contact-button:hover {
+    background-color: #f69197;
+    box-shadow: 0.3em 0.3em 0 0 #5b5d70;
+  }
+
+  .btn.projects-button:hover {
+    background-color: #ffc4b8;
+    box-shadow: 0.3em 0.3em 0 0 #5b5d70;
+  }
+  

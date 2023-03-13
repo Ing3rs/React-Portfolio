@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css';
 
 function ContactForm() {
     return (
@@ -13,34 +14,23 @@ function ContactForm() {
                 <div
                     id="emailHelp"
                     className="form-text">
-                    We'll never share your email with anyone else.
+                    I'll never share your email with anyone else.
                 </div>
             </div>
             <div className="mb-3">
                 <label
-                    for="exampleInputPassword1"
+                    for="exampleInput"
                     className="form-label">
-                    Password
+                    Tell me about your enquiry
                 </label>
                 <input
-                    type="password"
+                    type="subject"
                     className="form-control"
-                    id="exampleInputPassword1" />
+                    id="exampleInput" />
             </div>
-            <div className="mb-3 form-check">
-                <input
-                    type="checkbox"
-                    className="form-check-input"
-                    id="exampleCheck1" />
-                <label
-                    className="form-check-label"
-                    for="exampleCheck1">
-                    Check me out
-                </label>
-            </div>
-            <button type="submit" className="btn btn-primary">Submit</button>
+            <button type="submit" className="btn submit-button">Submit</button>
         </form>
     );
-}
+  }
 
 export default ContactForm;

@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "HTML"
+    },
+    {
+        "id": 2,
+        "name": "CSS"
+    },
+    {
+        "id": 3,
+        "name": "Git"
+    },
+    {
+        "id": 4,
+        "name": "UX"
+    },
+    {
+        "id": 5,
+        "name": "JavaScript"
+    },
+    {
+        "id": 6,
+        "name": "APIs"
+    },
+    {
+        "id": 7,
+        "name": "Node.js"
+    },
+    {
+        "id": 8,
+        "name": "React"
+    }
+  ]
+  

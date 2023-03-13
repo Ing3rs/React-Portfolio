@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Team profile generator",
       "image":
-        "react-portfolio\src\assets\images\team-profile-generator.png",
+        "https://github.com/Ing3rs/react-portfolio/raw/main/src/assets/images/team-profile-generator.png",
       "description": "Generate a team profile using command-line prompts",
       "link": "https://github.com/Ing3rs/Team-Profile-Generator"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "README generator",
         "image":
-          "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png?raw=true",
+          "https://github.com/Ing3rs/react-portfolio/raw/main/src/assets/images/README-Generator0.png",
         "description": "Automatically generate a professional README using command-line prompts",
         "link": "https://github.com/Ing3rs/README-Generator"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Screen Test",
         "image":
-          "https://github.com/bowseruk/screen-test/raw/main/assets/images/screenshot.png",
+          "https://github.com/Ing3rs/react-portfolio/raw/main/src/assets/images/screen-test.png",
         "description": "Test your movie knowledge with this quiz!",
         "link": "https://github.com/Ing3rs/screen-test"
     },
