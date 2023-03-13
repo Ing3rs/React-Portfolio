@@ -1,4 +1,5 @@
 import React from 'react';
+import { SocialIcon } from 'react-social-icons';
 import Container from '../components/Container';
 import Row from '../components/Row';
 import ContactForm from '../components/Form';
@@ -13,54 +14,34 @@ import skillsData from "../skills.json";
 //    must have a contact form for handling events
 
 
-// function Contact() {
-//     return (
-//         <div className='container'>
-//             <div className='text-center pb-5'>
-//                 <h1>Contact page</h1>
-//             </div>
-//             <div className='row justify-content-center'>
-//                 {/* <div className="d-flex justify-content-center"> */}
-//                 <div className='col-lg-5'>
-//                     <p>some text</p>
-//                 </div>
-//                 <div className='col-lg-5'>
-//                     <ContactForm />
-//                 </div>
-//                 <div className='row text-center pt-5'>
-//                     <div className='col-12'>
-//                         <p>add linkedin etc. here</p>
-//                     </div>
-//                 </div>
-//             </div>
-
-//         </div>
-//     );
-// }
-
 function Contact() {
     const skills = skillsData;
 
     return (
         <Container>
-            <div className='text-center pb-5'>
+            <div className='text-center pb-5 contact-title'>
                 <h1>Contact page</h1>
-                    <p>Check out my current skillset or drop me an email via the form</p>
+                <p>Check out my current skillset or drop me an email via the form</p>
             </div>
-            <Row>           
-                    {skills.map((skill) => (
-                        <SkillsCard
-                            id={skill.id}
-                            key={skill.id}
-                            name={skill.name}
-                        />
-                    ))}
+            <Row>
+                {skills.map((skill) => (
+                    <SkillsCard
+                        id={skill.id}
+                        key={skill.id}
+                        name={skill.name}
+                    />
+                ))}
             </Row>
             <Row>
                 <div className='text-center pt-5 pb-3'>
                     <h3 className='form-title'>Let's work together!</h3>
                 </div>
                 <ContactForm />
+                <div className='text-center'>
+                    <SocialIcon url="https://github.com/Ing3rs" bgColor="#74838c" style={{ margin: 25 }} />
+                    <SocialIcon url="https://www.linkedin.com/in/claire-ingram/" bgColor="#74838c" />
+                    <SocialIcon url="https://facebook.com/claire.ingram.52/" bgColor="#74838c" style={{ margin: 25 }} />
+                </div>
             </Row>
         </Container>
     );

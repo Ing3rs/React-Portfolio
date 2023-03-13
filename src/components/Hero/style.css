@@ -3,6 +3,8 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    padding-left: 75px;
+    padding-right: 75px;
   }
   
   .hero * {
@@ -29,11 +31,21 @@
 
   .btn.contact-button {
     margin-right: 15px;
+    margin-bottom: 15px;
     background-color: #f69197;
   }
 
   .btn.projects-button {
+    margin-right: 15px;
+    margin-bottom: 15px;
     background-color: #ffc4b8;
+  }
+  
+  .btn.cv-button {
+    width: 100px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    background-color: #74838c;
   }
 
   /* add hover affects onto butons */
@@ -45,6 +57,11 @@
 
   .btn.projects-button:hover {
     background-color: #ffc4b8;
+    box-shadow: 0.3em 0.3em 0 0 #5b5d70;
+  }
+
+  .btn.cv-button:hover {
+    background-color: #74838c;
     box-shadow: 0.3em 0.3em 0 0 #5b5d70;
   }
   

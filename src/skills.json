@@ -1,34 +1,26 @@
 [
     {
       "id": 1,
-      "name": "HTML"
+      "name": "HTML & CSS"
     },
     {
         "id": 2,
-        "name": "CSS"
-    },
-    {
-        "id": 3,
         "name": "Git"
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "UX"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "JavaScript"
     },
     {
-        "id": 6,
-        "name": "APIs"
-    },
-    {
-        "id": 7,
+        "id": 5,
         "name": "Node.js"
     },
     {
-        "id": 8,
+        "id": 6,
         "name": "React"
     }
   ]

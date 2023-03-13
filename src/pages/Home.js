@@ -19,6 +19,7 @@ function Home() {
                     <h2>I'm a Freelance Web Developer looking for their next challenge! </h2>
                     <a className="btn contact-button" href="/contact" role="button">Work with me</a>
                     <a className="btn projects-button" href="/projects" role="button">Latest projects</a>
+                    <a className="btn cv-button" href="/projects" role="button">My CV</a>
             </Hero>
         </div>
     );
