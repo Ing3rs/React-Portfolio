@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Team profile generator",
       "image":
-        "https://github.com/Ing3rs/Team-Profile-Generator/blob/main/assets/team-profile-screenshot.png?raw=true",
+        "react-portfolio\src\assets\images\team-profile-generator.png",
       "description": "Generate a team profile using command-line prompts",
       "link": "https://github.com/Ing3rs/Team-Profile-Generator"
     },
