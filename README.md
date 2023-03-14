@@ -1,3 +1,6 @@
+https://www.npmjs.com/package/react-social-icons
+https://lospec.com/palette-list/late-night-bath
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
