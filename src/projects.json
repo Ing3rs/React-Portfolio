@@ -21,7 +21,7 @@
         "image":
           "https://github.com/Ing3rs/react-portfolio/raw/main/src/assets/images/screen-test.png",
         "description": "Test your movie knowledge with this quiz!",
-        "link": "https://github.com/Ing3rs/screen-test"
+        "link": "https://bowseruk.github.io/screen-test/"
     },
     {
         "id": 4,
@@ -29,15 +29,15 @@
         "image":
           "https://github.com/Ing3rs/Challenge-8-weather-dashboard/raw/main/assets/images/final-screenshot-2.png",
         "description": "Found out the 5 day weather forecast where you are!",
-        "link": "https://github.com/Ing3rs/challenge-8-weather-dashboard"
+        "link": "https://ing3rs.github.io/Challenge-8-Weather-Dashboard-v2/"
     },
     {
         "id": 5,
-        "name": "Work day schedular",
+        "name": "Work day planner",
         "image":
           "https://github.com/Ing3rs/Challenge-7-Planner-App/raw/main/assets/images/daily-planner-screenshot.png",
-        "description": "A simple calendar app for scheduling your work day",
-        "link": "https://github.com/Ing3rs/Challenge-7-Planner-App"
+        "description": "A simple calendar app for planning your work day",
+        "link": "https://ing3rs.github.io/Challenge-7-Planner-App/"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "image":
           "https://github.com/Ing3rs/challenge-5-Password-Generator/raw/main/assets/images/password-generator-screenshot.jpg",
         "description": "Generate a random password based on input from console alerts",
-        "link": "https://github.com/Ing3rs/Challenge-5-Password-Generator"
+        "link": "https://ing3rs.github.io/Challenge-5-Password-Generator/"
     }
   ]
   

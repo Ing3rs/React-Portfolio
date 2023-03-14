@@ -5,11 +5,22 @@ function ContactForm() {
     return (
         <form className="contact-form">
             <div className="mb-3">
-                <label for="exampleInputEmail1" className="form-label">Email address</label>
+                <label
+                    for="nameInput"
+                    className="form-label">
+                    Name
+                </label>
+                <input
+                    type="name"
+                    className="form-control"
+                    id="nameInput" />
+            </div>
+            <div className="mb-3">
+                <label for="emailInput" className="form-label">Email address</label>
                 <input
                     type="email"
                     className="form-control"
-                    id="exampleInputEmail1"
+                    id="emailInput"
                     aria-describedby="emailHelp" />
                 <div
                     id="emailHelp"
@@ -19,14 +30,14 @@ function ContactForm() {
             </div>
             <div className="mb-3">
                 <label
-                    for="exampleInput"
+                    for="detailInput"
                     className="form-label">
                     Tell me about your enquiry
                 </label>
                 <input
                     type="subject"
                     className="form-control"
-                    id="exampleInput" />
+                    id="detailInput" />
             </div>
             <button type="submit" className="btn submit-button">Submit</button>
         </form>
